@@ -1,6 +1,7 @@
 # Environments & secrets
 .env
 token.json
+credentials.json
 
 # Virtual envs
 .venv/
