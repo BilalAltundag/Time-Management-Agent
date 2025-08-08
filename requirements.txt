@@ -1,0 +1,14 @@
+langchain>=0.3.0
+langgraph>=0.2.30
+langchain-google-community[calendar]>=2.0.0
+google-api-python-client>=2.131.0
+google-auth>=2.35.0
+google-auth-oauthlib>=1.2.1
+typer[all]>=0.12.3
+rich>=13.7.1
+python-dotenv>=1.0.1
+tzdata>=2024.1
+langsmith>=0.4.0
+PyYAML>=6.0.2
+pydantic>=2.11.0
+pyfiglet>=1.0.2

@@ -1,0 +1,18 @@
+# User profile for Calendar CLI
+#
+# Rename or relocate via CALENDAR_CLI_PROFILE env var, or pass --path argument on commands.
+# Comments start with '#'. Keep times in 24h 'HH:MM-HH:MM' format.
+
+timezone: Europe/Istanbul
+workdays: [mon, tue, wed, thu, fri]
+working_hours:
+  mon: "09:00-18:00"
+  tue: "09:00-18:00"
+  wed: "09:00-18:00"
+  thu: "09:00-18:00"
+  fri: "09:00-18:00"
+lunch: "12:30-13:30"
+no_meetings: ["Fri 14:00-16:00"]
+preferred_deep_work: ["09:00-11:00", "16:00-18:00"]
+avoid_times: ["18:00-21:00"]
+notes: "Personal preferences: avoid late-night heavy tasks."

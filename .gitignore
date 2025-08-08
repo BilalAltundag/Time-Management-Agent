@@ -1,0 +1,22 @@
+# Environments & secrets
+.env
+token.json
+
+# Virtual envs
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
