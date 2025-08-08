@@ -1,5 +1,7 @@
 ## Time Management Agent CLI (LangChain + Gemini + Google Calendar)
 
+<img width="505" height="418" alt="TimeManagementAgent" src="https://github.com/user-attachments/assets/61f2a0d5-9b51-4bbc-b902-e44b018fb4d8" />
+
 A fast, easy CLI to manage Google Calendar with an opinionated time-management agent. Beautiful output, editable system prompt and user profile, and one-line setup.
 
 ### What you can do
